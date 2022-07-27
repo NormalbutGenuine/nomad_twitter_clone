@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nomad_twitter_clone/static/css/main.a749d3de.css",
+    "main.js": "/nomad_twitter_clone/static/js/main.8326d060.js",
+    "index.html": "/nomad_twitter_clone/index.html",
+    "main.a749d3de.css.map": "/nomad_twitter_clone/static/css/main.a749d3de.css.map",
+    "main.8326d060.js.map": "/nomad_twitter_clone/static/js/main.8326d060.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a749d3de.css",
+    "static/js/main.8326d060.js"
+  ]
+}
